@@ -2,7 +2,7 @@
 
 * Студент: [Артём](https://up.htmlacademy.ru/htmlcss-individual/2/user/949283).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957)
-* Сайт: (https://sambulvar.github.io/949283-sedona-2/)
+* Сайт: [Мой проект Седона](https://sambulvar.github.io/949283-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
